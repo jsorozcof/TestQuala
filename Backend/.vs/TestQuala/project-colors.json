@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ae88be45-f9fb-4594-a61b-b6f949f99c25": {
+      "ProjectGuid": "ae88be45-f9fb-4594-a61b-b6f949f99c25",
+      "DisplayName": "TestQuala.Business",
+      "ColorIndex": 0
+    },
+    "706a608b-5b89-4fcc-9071-c1a4ffe23090": {
+      "ProjectGuid": "706a608b-5b89-4fcc-9071-c1a4ffe23090",
+      "DisplayName": "TestQuala.Business",
+      "ColorIndex": 1
+    },
+    "e1dd2d5e-d368-4211-88cd-95520e19a358": {
+      "ProjectGuid": "e1dd2d5e-d368-4211-88cd-95520e19a358",
+      "DisplayName": "TestQuala.Data",
+      "ColorIndex": 2
+    },
+    "ee6579df-ec1f-4c30-92cf-29eee227429d": {
+      "ProjectGuid": "ee6579df-ec1f-4c30-92cf-29eee227429d",
+      "DisplayName": "TestQuala.Entities",
+      "ColorIndex": 3
+    },
+    "65a10507-40b6-45f3-b64d-d69f60654f1d": {
+      "ProjectGuid": "65a10507-40b6-45f3-b64d-d69f60654f1d",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 4
+    },
+    "99c15023-2384-4fa6-aea0-9ae1a55552f2": {
+      "ProjectGuid": "99c15023-2384-4fa6-aea0-9ae1a55552f2",
+      "DisplayName": "TestQuala.WebApi",
+      "ColorIndex": 5
+    },
+    "6c7546ad-ecaa-4c6c-8a9b-28b2c0fd56b5": {
+      "ProjectGuid": "6c7546ad-ecaa-4c6c-8a9b-28b2c0fd56b5",
+      "DisplayName": "Utilitys.TestQuala",
+      "ColorIndex": 6
+    },
+    "10b43cbb-97bc-4c81-a084-e76954546e33": {
+      "ProjectGuid": "10b43cbb-97bc-4c81-a084-e76954546e33",
+      "DisplayName": "TestQuala.Utilitys",
+      "ColorIndex": 7
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 8
+}

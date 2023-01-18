@@ -1,0 +1,12 @@
+C:\Repos\quala\TestQuala\Backend\src\Business\TestQuala.Utilitys\bin\Debug\net6.0\TestQuala.Utilitys.deps.json
+C:\Repos\quala\TestQuala\Backend\src\Business\TestQuala.Utilitys\bin\Debug\net6.0\TestQuala.Utilitys.dll
+C:\Repos\quala\TestQuala\Backend\src\Business\TestQuala.Utilitys\bin\Debug\net6.0\ref\TestQuala.Utilitys.dll
+C:\Repos\quala\TestQuala\Backend\src\Business\TestQuala.Utilitys\bin\Debug\net6.0\TestQuala.Utilitys.pdb
+C:\Repos\quala\TestQuala\Backend\src\Business\TestQuala.Utilitys\obj\Debug\net6.0\TestQuala.Utilitys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\quala\TestQuala\Backend\src\Business\TestQuala.Utilitys\obj\Debug\net6.0\TestQuala.Utilitys.AssemblyInfoInputs.cache
+C:\Repos\quala\TestQuala\Backend\src\Business\TestQuala.Utilitys\obj\Debug\net6.0\TestQuala.Utilitys.AssemblyInfo.cs
+C:\Repos\quala\TestQuala\Backend\src\Business\TestQuala.Utilitys\obj\Debug\net6.0\TestQuala.Utilitys.csproj.CoreCompileInputs.cache
+C:\Repos\quala\TestQuala\Backend\src\Business\TestQuala.Utilitys\obj\Debug\net6.0\TestQuala.Utilitys.dll
+C:\Repos\quala\TestQuala\Backend\src\Business\TestQuala.Utilitys\obj\Debug\net6.0\ref\TestQuala.Utilitys.dll
+C:\Repos\quala\TestQuala\Backend\src\Business\TestQuala.Utilitys\obj\Debug\net6.0\TestQuala.Utilitys.pdb
+C:\Repos\quala\TestQuala\Backend\src\Business\TestQuala.Utilitys\obj\Debug\net6.0\TestQuala.Utilitys.csproj.AssemblyReference.cache

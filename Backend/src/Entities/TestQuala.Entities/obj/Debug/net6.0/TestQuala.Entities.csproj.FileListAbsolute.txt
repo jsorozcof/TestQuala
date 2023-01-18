@@ -1,0 +1,12 @@
+C:\Repos\quala\TestQuala\Backend\src\Entities\TestQuala.Entities\bin\Debug\net6.0\TestQuala.Entities.deps.json
+C:\Repos\quala\TestQuala\Backend\src\Entities\TestQuala.Entities\bin\Debug\net6.0\TestQuala.Entities.dll
+C:\Repos\quala\TestQuala\Backend\src\Entities\TestQuala.Entities\bin\Debug\net6.0\ref\TestQuala.Entities.dll
+C:\Repos\quala\TestQuala\Backend\src\Entities\TestQuala.Entities\bin\Debug\net6.0\TestQuala.Entities.pdb
+C:\Repos\quala\TestQuala\Backend\src\Entities\TestQuala.Entities\obj\Debug\net6.0\TestQuala.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\quala\TestQuala\Backend\src\Entities\TestQuala.Entities\obj\Debug\net6.0\TestQuala.Entities.AssemblyInfoInputs.cache
+C:\Repos\quala\TestQuala\Backend\src\Entities\TestQuala.Entities\obj\Debug\net6.0\TestQuala.Entities.AssemblyInfo.cs
+C:\Repos\quala\TestQuala\Backend\src\Entities\TestQuala.Entities\obj\Debug\net6.0\TestQuala.Entities.csproj.CoreCompileInputs.cache
+C:\Repos\quala\TestQuala\Backend\src\Entities\TestQuala.Entities\obj\Debug\net6.0\TestQuala.Entities.dll
+C:\Repos\quala\TestQuala\Backend\src\Entities\TestQuala.Entities\obj\Debug\net6.0\ref\TestQuala.Entities.dll
+C:\Repos\quala\TestQuala\Backend\src\Entities\TestQuala.Entities\obj\Debug\net6.0\TestQuala.Entities.pdb
+C:\Repos\quala\TestQuala\Backend\src\Entities\TestQuala.Entities\obj\Debug\net6.0\TestQuala.Entities.csproj.AssemblyReference.cache
